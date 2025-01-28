@@ -33,7 +33,7 @@
         ul li {
             list-style: none;
             display: inline;
-            padding: 23px;
+            padding: 24px;
             font-weight: 400;
             font-weight: bolder;
 
